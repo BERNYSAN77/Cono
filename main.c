@@ -8,6 +8,7 @@ Volumen = 1/3 (PI *(radio)²*altura)
 #include <stdio.h>
 #include <math.h>
 
+
 int main(void) {
   float x1,y1,x2,y2,x3,y3;
   float radio,altura;
