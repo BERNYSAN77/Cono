@@ -26,8 +26,9 @@ int main(void) {
   
   
 
-  printf("\nEl volumen del del triangulo es %f: ",volumen(radio,altura));
-  area(radio,altura);
+  volumen(radio,altura);
+  printf("\nEl área del cono es %f: ",area(radio,altura));
+  
   
   return 0;
 }
